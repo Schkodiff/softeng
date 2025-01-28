@@ -5,7 +5,8 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{977DCDE1-4231-42F0-B818-B5A0E1FE68A2}" Loaded="No" Name="Requirements_gallery" Type="{DABA1E0A-0922-4B05-B7F0-B0BD7A73FD33}" URL="Requirements_gallery.rqm"/>
-		<Model Expanded="Yes" ID="{977DCDE1-4231-42F0-B818-B5A0E1FE68A2}" Name="Requirements_gallery" Selected="Yes" Type="{DABA1E0A-0922-4B05-B7F0-B0BD7A73FD33}" URL="Requirements_gallery.rqm"/>
+		<Model Expanded="Yes" ID="{977DCDE1-4231-42F0-B818-B5A0E1FE68A2}" Name="Requirements_gallery" Type="{DABA1E0A-0922-4B05-B7F0-B0BD7A73FD33}" URL="file:///C|/Users/student/Documents/TechMages/Requirements_gallery.rqm"/>
+		<Model Expanded="Yes" ID="{1B7510B5-5644-4CC4-B772-DD1489BC7CCE}" Name="EnterpriseArchitectureModel_1" Selected="Yes" Type="{5215C79E-A9A1-4738-A627-36DA432EFE29}" URL="file:///C|/Users/student/Documents/TechMages/EnterpriseArchitectureModel_1.eam"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
